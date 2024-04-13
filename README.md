@@ -1,9 +1,9 @@
 # Parameter-Estimation
 
-### Submitted by-
+## Submitted by-
 
-#### Name- Ishaan Gaba
+### Name- Ishaan Gaba
 
-#### Roll no.- 102103281
+### Roll no.- 102103281
 
-#### Group- 3CO10
+### Group- 3CO10
